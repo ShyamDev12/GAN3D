@@ -1,0 +1,10 @@
+output/1.glb filter=lfs diff=lfs merge=lfs -text
+output/6.glb filter=lfs diff=lfs merge=lfs -text
+output/9.glb filter=lfs diff=lfs merge=lfs -text
+output/5.glb filter=lfs diff=lfs merge=lfs -text
+output/7.glb filter=lfs diff=lfs merge=lfs -text
+output/8.glb filter=lfs diff=lfs merge=lfs -text
+output/0.glb filter=lfs diff=lfs merge=lfs -text
+output/2.glb filter=lfs diff=lfs merge=lfs -text
+output/3.glb filter=lfs diff=lfs merge=lfs -text
+output/4.glb filter=lfs diff=lfs merge=lfs -text
